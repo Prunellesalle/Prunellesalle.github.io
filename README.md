@@ -1,3 +1,3 @@
 # welcome
 ceci est le dépot du portfolio
-http://prunellesalle.github.io
+http://Bonjour/projet/structure.io
